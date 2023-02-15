@@ -1,0 +1,5 @@
+Cliente-Servidor faz requisições e respostas entre cliente e servidor.
+Estado e Representação faz o armazenamento de estado do recurso no servidor com retorno de sua representação ao cliente.
+Cacheabilidade torna a possibilidade de cache de respostas para melhorar a eficiência.
+Interface uniforme faz o uso de uma interface uniforme, como HTTP.
+Sistema de mensagens incrementa uma comunicação baseada em mensagens sem estado.
